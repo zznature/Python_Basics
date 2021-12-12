@@ -2,7 +2,7 @@
  
  My learning notes on CS61a from UC Berkerly.
 
- ## Forked repository :
+## Forked repository:
 
 Thanks to the contributors!
  1. [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
