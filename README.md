@@ -1,6 +1,14 @@
 # Python_Basics
  
- My learning notes on CS61a from UC Berkerly.
+My learning notes on python.
+
+**Main Learing materials:**
+
+* CS61a from UC Berkerly
+
+* [python-course.eu](https://python-course.eu/)
+
+* Composing Programs
 
 ## Forked repository:
 
