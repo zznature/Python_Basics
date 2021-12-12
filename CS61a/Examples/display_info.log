@@ -1,0 +1,27 @@
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {'Gender': 'male'}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {'gender': 'male'}
+INFO:root:Ran with args: ('Jerry', 23), and kwargs: {'gender': 'male'}
+INFO:root:Ran with args: ('Tom',), and kwargs: {'age': 22, 'gender': 'male'}
+INFO:root:Ran with args: ('Jerry',), and kwargs: {'age': 23, 'gender': 'male'}
