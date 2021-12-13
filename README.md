@@ -1,6 +1,9 @@
 # Python_Basics
  
-My learning notes on python.
+My learning notes on python and its packages.
+
+Main questions:
+How the values are created, represented, changed and saved?
 
 **Main Learing materials:**
 
