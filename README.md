@@ -1,8 +1,8 @@
-# Python_Basics
+# Thinking Python from first principles
  
 Learning notes on python and its packages.
 
-Main questions:
+**Principles**:
 How the values are created, represented, changed and saved?
 
 **Main Learing materials:**
@@ -15,8 +15,8 @@ How the values are created, represented, changed and saved?
 
 ## Forked repository:
 
-Thanks to the contributors!
  1. [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
  2. [Python-concepts-with-examples](https://github.com/trekhleb/learn-python)
  3. [Matplotlib-Cheatsheet](https://github.com/matplotlib/cheatsheets)
 
+Thanks to the contributors!
