@@ -2,6 +2,9 @@
  
 Learning notes on python and its packages.
 
+It is intended to summarize the basic concepts and syntax in Python in case I would look up.
+And most importantly I am trying to demonstrate the basic principle for Python programming.
+
 **Principles**:
 How the values are created, represented, changed and saved?
 
