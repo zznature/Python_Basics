@@ -7,7 +7,7 @@ And most importantly I am trying to demonstrate the basic principle for Python p
 
 **Principles**:
 How the values are created, represented, changed and saved?
-
+Debugging?
 **Main Learing materials:**
 
 * CS61a from UC Berkerly
