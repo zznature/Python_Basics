@@ -7,7 +7,9 @@ And most importantly I am trying to demonstrate the basic principle for Python p
 
 **Principles**:
 How the values are created, represented, changed and saved?
+
 Debugging?
+
 **Main Learing materials:**
 
 * CS61a from UC Berkerly
@@ -20,6 +22,6 @@ Debugging?
 
  1. [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
  2. [Python-concepts-with-examples](https://github.com/trekhleb/learn-python)
- 3. [Matplotlib-Cheatsheet](https://github.com/matplotlib/cheatsheets)
+ 3. [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)
 
 Thanks to the contributors!
