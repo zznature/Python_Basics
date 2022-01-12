@@ -6,6 +6,7 @@ It is intended to summarize the basic concepts and syntax in Python in case I wo
 And most importantly I am trying to demonstrate the basic principle for Python programming.
 
 **Principles**:
+
 How the values are created, represented, changed and saved?
 
 Debugging?
