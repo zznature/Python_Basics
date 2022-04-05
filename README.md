@@ -13,11 +13,11 @@ Debugging?
 
 **Main Learing materials:**
 
-* CS61a from UC Berkerly
+* [CS61a from UC Berkerly](https://cs61a.org)
 
 * [python-course.eu](https://python-course.eu/)
 
-* Composing Programs
+* [Composing Programs](http://composingprograms.com/)
 
 ## Forked repository:
 
