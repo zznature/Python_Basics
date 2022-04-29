@@ -3,7 +3,7 @@
 Learning notes on python and its packages.
 
 It is intended to summarize the basic concepts and syntax in Python in case I would look up.
-And most importantly I am trying to dig out the basic principles for Python programming while I am coding.
+And most importantly I am trying to dig out the basic principles for Python programming while coding.
 
 **Constucting Principles:**
 
