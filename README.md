@@ -3,9 +3,10 @@
 Learning notes on python and its packages.
 
 It is intended to summarize the basic concepts and syntax in Python in case I would look up.
-And most importantly I am trying to demonstrate the basic principle for Python programming.
+And most importantly I am trying to dig out the basic principles for Python programming while I am coding.
 
 **Constucting Principles:**
+
 How the values are created, represented, changed and stored?
 
 It consists of building abstractions of data and functions.
@@ -14,7 +15,7 @@ It consists of building abstractions of data and functions.
 
 How to organise the program structure?
 
-Interpretation? Debugging?
+Interpretting? Debugging?
 
 **Main Learing materials:**
 
