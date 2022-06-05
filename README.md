@@ -1,9 +1,12 @@
 # Thinking Python from first principles
- 
-Learning notes on python and its packages.
 
-It is intended to summarize the basic concepts and syntax in Python in case I would look up.
-And most importantly I am trying to dig out the basic principles for Python programming while coding.
+Learning notes on python programming, mainly three paradigms:
+
+1. Abstraction of data and functions,
+2. Object-oriented programming,
+3. Neural networks.
+
+It is intended to summarize the basic concepts and syntax in Python in case I would look up. Moreover I am trying to dig out the basic principles for Python programming in the process of coding.
 
 **Constucting Principles:**
 
@@ -24,6 +27,8 @@ Interpretting? Debugging?
 * [python-course.eu](https://python-course.eu/)
 
 * [Composing Programs](http://composingprograms.com/)
+
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 
 ## Forked repository:
 
