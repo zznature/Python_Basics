@@ -219,14 +219,30 @@ class Game:
 
     def play(self):
         while not self.game_over():
-            "*** YOUR CODE HERE ***"
+            if self.turn % 2 == 0:
+                curr, other = self.p1, self.p2
+            else:
+                curr, other = self.p2, self.p1
+            curr.choose(other)(other)
+            self.turn += 1
+            # self.turn += 1
+            # # choose =   # debate or speech
+            # if self.turn % 2 == 0:
+            #     self.p1.choose(self.p2)
+            # else:
+            #     self.p2.choose(self.p1)
         return self.winner()
 
     def game_over(self):
         return max(self.p1.votes, self.p2.votes) >= 50 or self.turn >= 10
 
     def winner(self):
-        "*** YOUR CODE HERE ***"
+        if self.p1.votes > self.p2.votes:
+            return self.p1
+        elif self.p1.votes < self.p2.votes:
+            return self.p2
+        else:
+            return None
 
 
 # Phase 3: New Players
@@ -242,7 +258,10 @@ class AggressivePlayer(Player):
     """
 
     def choose(self, other):
-        "*** YOUR CODE HERE ***"
+        if self.popularity <= other.popularity:
+            return self.speech
+        else:
+            return self.debate
 
 
 class CautiousPlayer(Player):
@@ -259,7 +278,10 @@ class CautiousPlayer(Player):
     """
 
     def choose(self, other):
-        "*** YOUR CODE HERE ***"
+        if self.popularity == 0:
+            return self.debate
+        else:
+            return self.speech
 
 
 class VirFib():
