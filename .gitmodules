@@ -1,0 +1,3 @@
+[submodule "practical-python"]
+	path = practical-python
+	url = https://github.com/zznature/practical-python
