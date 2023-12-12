@@ -1,4 +1,0 @@
-INFO:root:Ran with args: ('Tom',), and kwargs: {'age': 22, 'gender': 'male'}
-INFO:root:Ran with args: ('Jerry',), and kwargs: {'age': 23, 'gender': 'male'}
-INFO:root:Ran with args: ('Tom',), and kwargs: {'age': 22, 'gender': 'male'}
-INFO:root:Ran with args: ('Jerry',), and kwargs: {'age': 23, 'gender': 'male'}
